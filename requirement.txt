@@ -11,3 +11,4 @@ matplotlib
 scikit-learn
 tensorflow
 seaborn
+scikit-learn==1.2.1
