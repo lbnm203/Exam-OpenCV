@@ -1,0 +1,13 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+opencv-python-headless
+streamlit-drawable-canvas
+svgpathtools
+svgwrite
+matplotlib
+scikit-learn
+tensorflow
+seaborn
